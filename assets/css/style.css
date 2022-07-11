@@ -11,6 +11,8 @@ body {
 
 
 
+
+
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -47,6 +49,8 @@ body {
 
 
 
+
+
 a {
     color: #ffffff;
     text-decoration: none;
@@ -55,6 +59,8 @@ a {
 p {
     font-size: 16px;
 }
+
+
 
 
 
@@ -73,11 +79,35 @@ p {
 
 
 
+main {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
 
 
 
 
 
+
+.service {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.service img {
+    max-height: 200px;
+}
+
+
+.service h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
 
 
 .float-left {
@@ -91,13 +121,6 @@ p {
 }
 
 
-
-
-main {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-}
 
 
 
@@ -132,24 +155,7 @@ main {
 
 
 
-.service {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
 
-.service img {
-    max-height: 200px;
-}
-
-
-.service h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
 
 .footer {
     padding: 30px;

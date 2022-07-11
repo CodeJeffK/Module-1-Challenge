@@ -1,3 +1,5 @@
+/* GENERAL STYLES */
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -11,7 +13,7 @@ body {
 
 
 
-
+/* HEADERS */
 
 .header {
     padding: 20px;
@@ -49,7 +51,7 @@ body {
 
 
 
-
+/* TEXT STYLES */
 
 a {
     color: #ffffff;
@@ -63,7 +65,7 @@ p {
 
 
 
-
+/* COVER PICTURE */
 
 .hero {
     height: 800px;
@@ -77,7 +79,7 @@ p {
 
 
 
-
+/* MAIN BODY */
 
 main {
     width: 75%;
@@ -88,7 +90,7 @@ main {
 
 
 
-
+/* SERVICE SECTION INCLUDING PICTURES */
 
 .service {
     margin-bottom: 20px;
@@ -123,7 +125,7 @@ main {
 
 
 
-
+/* BENEFITS SECTION WITH PICTURES AND HEADINGS */
 
 .benefits {
     margin-right: 20px;
@@ -155,7 +157,7 @@ main {
 
 
 
-
+/* FOOTER */
 
 .footer {
     padding: 30px;
